@@ -1,4 +1,11 @@
 
+# A Compassionate Android App for Victims to Report Cases
+
+It is a purpose-driven Android application designed to provide a user-friendly platform for victims to report cases seamlessly. It aims to be an inclusive tool, accommodating various cases that victims might encounter. Whether it's a high-stakes emergency or a general concern, Empower is designed to streamline the reporting process, ensuring that victims' cases are treated with the urgency and sensitivity they deserve. By offering different priority levels, the app ensures a tailored response, making it a versatile and comprehensive solution for individuals seeking support and resolution.
+
+
+
+
 
 ## Features
 
